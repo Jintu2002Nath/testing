@@ -1,0 +1,1 @@
+This read me file is only for learning git
